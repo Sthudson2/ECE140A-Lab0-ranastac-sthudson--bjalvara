@@ -1,2 +1,3 @@
 # ECE140A-Lab0-ranastac-sthudson--bjalvara
-ECE140
+Github_USERNAME        FULLNAME
+ranastac               Regenel Anastacio
