@@ -1,3 +1,6 @@
 # ECE140A-Lab0-ranastac-sthudson-bjalvara
-GithubUSERNAME_FULLNAME
-ranastac_Regenel Anastacio
+Member 1: Regenel Anastacio - ranastac
+
+Member 2:
+
+Member 3:
